@@ -1,7 +1,7 @@
-import { AppBar, Button, Link, Typography } from "@mui/material";
+import { AppBar, Link, Typography } from "@mui/material";
 import { Box, Container } from "@mui/system";
 import React from "react";
-import { useLocation } from "react-router-dom";
+import NavItem from "./NavItem";
 
 const navigationItems = [
   {
@@ -19,9 +19,8 @@ const navigationItems = [
 ];
 
 const Navbar = () => {
-  const currentLocation = useLocation();
   return (
-    <AppBar position="static" color="primary" sx={{}}>
+    <AppBar position="static" sx={{}}>
       <Container
         sx={{
           paddingY: "0.8rem",
@@ -36,7 +35,7 @@ const Navbar = () => {
             variant="h5"
             component={"a"}
             sx={{
-              display: { xs: "none", md: "flex" },
+              display: { md: "flex" },
               fontWeight: 500,
               letterSpacing: ".3rem",
               color: "inherit",
@@ -53,17 +52,7 @@ const Navbar = () => {
           width={"30%"}
         >
           {navigationItems.map(item => (
-            <Link key={item.text} to={item.href}>
-              <Button color={"secondary"}>
-                <Typography
-                  variant="button"
-                  borderBottom={currentLocation.pathname === item.href ? 3 : 0}
-                  fontWeight={"600"}
-                >
-                  {item.text}
-                </Typography>
-              </Button>
-            </Link>
+            <NavItem key={item.text} text={item.text} href={item.href} />
           ))}
         </Box>
       </Container>
