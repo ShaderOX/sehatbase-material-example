@@ -33,7 +33,6 @@ const Navbar = () => {
           <Typography
             color={"primary"}
             variant="h5"
-            component={"a"}
             sx={{
               display: { md: "flex" },
               fontWeight: 500,

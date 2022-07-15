@@ -1,7 +1,7 @@
-import BaseLayout from "../layouts/BaseLayout";
+import { BaseLayout } from "../layouts";
 
 const PostsPage = () => {
-  return <BaseLayout>PostsPage</BaseLayout>;
+  return <BaseLayout></BaseLayout>;
 };
 
 export default PostsPage;
