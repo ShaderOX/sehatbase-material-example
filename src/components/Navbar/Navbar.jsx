@@ -1,4 +1,4 @@
-import { AppBar, Link, Typography } from "@mui/material";
+import { AppBar, Link, Typography, useMediaQuery } from "@mui/material";
 import { Box, Container } from "@mui/system";
 import React from "react";
 import NavItem from "./NavItem";
@@ -12,13 +12,10 @@ const navigationItems = [
     text: "Blogs",
     href: "/blogs",
   },
-  {
-    text: "Contact Us",
-    href: "/contact-us",
-  },
 ];
 
 const Navbar = () => {
+  const isSmScreen = useMediaQuery(theme => theme.breakpoints.up("sm"));
   return (
     <AppBar position="static" sx={{}}>
       <Container
@@ -48,7 +45,7 @@ const Navbar = () => {
         <Box
           sx={{ display: "flex" }}
           justifyContent={"space-between"}
-          width={"30%"}
+          width={!isSmScreen ? "50%" : "20%"}
         >
           {navigationItems.map(item => (
             <NavItem key={item.text} text={item.text} href={item.href} />
