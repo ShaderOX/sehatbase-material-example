@@ -4,7 +4,7 @@ import "./App.css";
 import { theme } from "./config";
 import ContactUsPage from "./pages/ContactUsPage";
 import HomePage from "./pages/HomePage";
-import PostsPage from "./pages/PostsPage";
+import BlogsPage from "./pages/BlogsPage";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/posts" element={<PostsPage />} />
+          <Route path="/blogs" element={<BlogsPage />} />
           <Route path="/contact-us" element={<ContactUsPage />} />
         </Routes>
       </Router>

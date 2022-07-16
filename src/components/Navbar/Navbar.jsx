@@ -9,8 +9,8 @@ const navigationItems = [
     href: "/",
   },
   {
-    text: "posts",
-    href: "/posts",
+    text: "Blogs",
+    href: "/blogs",
   },
   {
     text: "Contact Us",
