@@ -1,3 +1,4 @@
+import FavoriteIcon from "@mui/icons-material/Favorite";
 import {
   Box,
   Button,
@@ -5,9 +6,11 @@ import {
   CardActions,
   CardContent,
   CardMedia,
+  Divider,
   Link,
   Typography,
 } from "@mui/material";
+import { green } from "@mui/material/colors";
 
 const BlogCard = ({ blog }) => {
   return (
@@ -29,14 +32,31 @@ const BlogCard = ({ blog }) => {
         />
         <Box>
           <CardContent>
-            <Typography
-              gutterBottom
-              variant="h6"
-              component="div"
-              textAlign={"center"}
+            <Box
+              display={"flex"}
+              justifyContent="space-between"
+              alignItems={"center"}
             >
-              {blog.title}
-            </Typography>
+              <Typography
+                gutterBottom
+                variant="h6"
+                component="div"
+                textAlign={"left"}
+              >
+                {blog.title}
+              </Typography>
+              <Typography
+                gutterBottom
+                variant="caption"
+                sx={{ textTransform: "uppercase" }}
+                color={green[600]}
+                component="div"
+                textAlign={"right"}
+              >
+                {blog.author}
+              </Typography>
+            </Box>
+            <Divider sx={{ marginBottom: 1 }} />
             <Typography variant="body2" color="text.secondary">
               {blog.content.slice(0, 100)} ...
             </Typography>
@@ -65,7 +85,9 @@ const BlogCard = ({ blog }) => {
               width="100%"
               sx={{ display: "flex", justifyContent: "space-between" }}
             >
-              <Button size="small">Add to List</Button>
+              <Button size="small">
+                <FavoriteIcon sx={{ color: "red" }} />
+              </Button>
               <Link to={`/blogs/${blog.id}`}>
                 <Button size="small">Learn More</Button>
               </Link>
