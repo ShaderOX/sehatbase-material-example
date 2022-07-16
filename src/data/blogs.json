@@ -12,13 +12,7 @@
       "https://loremflickr.com/640/480/abstract?33792",
       "https://loremflickr.com/640/480/abstract?33959"
     ],
-    "tags": [
-      "awful",
-      "obvious",
-      "rigid",
-      "unwieldy",
-      "sniveling"
-    ]
+    "tags": ["awful", "obvious", "rigid", "unwieldy", "sniveling"]
   },
   {
     "id": "4393a3a6-8938-4e2d-97db-00614a1a3688",
@@ -32,13 +26,7 @@
       "https://loremflickr.com/640/480/abstract?31674",
       "https://loremflickr.com/640/480/abstract?4276"
     ],
-    "tags": [
-      "dark",
-      "lined",
-      "organic",
-      "essential",
-      "spicy"
-    ]
+    "tags": ["dark", "lined", "organic", "essential", "spicy"]
   },
   {
     "id": "444e521e-5594-49b3-9187-4b3b7a95bb30",
@@ -55,13 +43,7 @@
       "https://loremflickr.com/640/480/abstract?42700",
       "https://loremflickr.com/640/480/abstract?84227"
     ],
-    "tags": [
-      "medium",
-      "rigid",
-      "prudent",
-      "necessary",
-      "insubstantial"
-    ]
+    "tags": ["medium", "rigid", "prudent", "necessary", "insubstantial"]
   },
   {
     "id": "e7193c3f-17c3-4a32-8110-98440aca0645",
@@ -78,12 +60,7 @@
       "https://loremflickr.com/640/480/abstract?94600",
       "https://loremflickr.com/640/480/abstract?87768"
     ],
-    "tags": [
-      "big-hearted",
-      "sudden",
-      "peaceful",
-      "dark"
-    ]
+    "tags": ["big-hearted", "sudden", "peaceful", "dark"]
   },
   {
     "id": "d0d58646-6e5f-4d77-8e15-7e52bf62879a",
@@ -162,9 +139,7 @@
     "author": "Yolanda Runte",
     "publishedAt": "2022-03-04T07:36:31.617Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?31073"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?31073"],
     "tags": [
       "striking",
       "suspicious",
@@ -232,15 +207,8 @@
     "author": "Ole Nader",
     "publishedAt": "2021-10-06T06:10:38.357Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?29188"
-    ],
-    "tags": [
-      "remorseful",
-      "respectful",
-      "firsthand",
-      "shocked"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?29188"],
+    "tags": ["remorseful", "respectful", "firsthand", "shocked"]
   },
   {
     "id": "fcab4d66-c9d4-4e95-9d7f-d52215f1d537",
@@ -254,11 +222,7 @@
       "https://loremflickr.com/640/480/abstract?11012",
       "https://loremflickr.com/640/480/abstract?30052"
     ],
-    "tags": [
-      "adorable",
-      "cultivated",
-      "joint"
-    ]
+    "tags": ["adorable", "cultivated", "joint"]
   },
   {
     "id": "c89587bd-0ce5-42df-91e4-5a9880769263",
@@ -326,12 +290,7 @@
       "https://loremflickr.com/640/480/abstract?79668",
       "https://loremflickr.com/640/480/abstract?23539"
     ],
-    "tags": [
-      "majestic",
-      "monumental",
-      "majestic",
-      "flippant"
-    ]
+    "tags": ["majestic", "monumental", "majestic", "flippant"]
   },
   {
     "id": "beea3296-39f7-46f6-924c-76d046ede354",
@@ -346,13 +305,7 @@
       "https://loremflickr.com/640/480/abstract?84839",
       "https://loremflickr.com/640/480/abstract?55179"
     ],
-    "tags": [
-      "measly",
-      "bumpy",
-      "flippant",
-      "ethical",
-      "unwieldy"
-    ]
+    "tags": ["measly", "bumpy", "flippant", "ethical", "unwieldy"]
   },
   {
     "id": "8cfc34d6-38f0-4ce7-8cef-6834ae58fde3",
@@ -361,9 +314,7 @@
     "author": "Dennis Considine",
     "publishedAt": "2022-04-07T14:15:32.715Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?51706"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?51706"],
     "tags": [
       "sinful",
       "experienced",
@@ -385,10 +336,7 @@
       "https://loremflickr.com/640/480/abstract?29270",
       "https://loremflickr.com/640/480/abstract?82770"
     ],
-    "tags": [
-      "shy",
-      "organic"
-    ]
+    "tags": ["shy", "organic"]
   },
   {
     "id": "a87b3315-0c13-4bae-9dc8-4db2cc207614",
@@ -403,10 +351,7 @@
       "https://loremflickr.com/640/480/abstract?46140",
       "https://loremflickr.com/640/480/abstract?91828"
     ],
-    "tags": [
-      "aware",
-      "spotless"
-    ]
+    "tags": ["aware", "spotless"]
   },
   {
     "id": "59372675-5fb8-4069-acc0-d685c092c035",
@@ -415,9 +360,7 @@
     "author": "Fiona Sipes",
     "publishedAt": "2021-12-27T02:01:17.020Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?34367"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?34367"],
     "tags": [
       "inexperienced",
       "left",
@@ -442,9 +385,7 @@
       "https://loremflickr.com/640/480/abstract?68217",
       "https://loremflickr.com/640/480/abstract?27415"
     ],
-    "tags": [
-      "sniveling"
-    ]
+    "tags": ["sniveling"]
   },
   {
     "id": "4bcc0fd0-2941-4a38-9a66-aef14081613e",
@@ -505,12 +446,7 @@
       "https://loremflickr.com/640/480/abstract?46309",
       "https://loremflickr.com/640/480/abstract?79741"
     ],
-    "tags": [
-      "small",
-      "small",
-      "ruddy",
-      "strict"
-    ]
+    "tags": ["small", "small", "ruddy", "strict"]
   },
   {
     "id": "e2409394-fc41-4d5c-8d62-af3822021751",
@@ -548,13 +484,7 @@
       "https://loremflickr.com/640/480/abstract?20722",
       "https://loremflickr.com/640/480/abstract?3236"
     ],
-    "tags": [
-      "illegal",
-      "yellowish",
-      "rigid",
-      "respectful",
-      "animated"
-    ]
+    "tags": ["illegal", "yellowish", "rigid", "respectful", "animated"]
   },
   {
     "id": "fd37b9da-741b-43ec-8b77-7d1dc4fd9d52",
@@ -641,12 +571,7 @@
       "https://loremflickr.com/640/480/abstract?36225",
       "https://loremflickr.com/640/480/abstract?15175"
     ],
-    "tags": [
-      "cheery",
-      "cultivated",
-      "worn",
-      "illegal"
-    ]
+    "tags": ["cheery", "cultivated", "worn", "illegal"]
   },
   {
     "id": "7d7f344c-ae6a-4aa1-bc8b-c43ac84f6599",
@@ -661,10 +586,7 @@
       "https://loremflickr.com/640/480/abstract?33053",
       "https://loremflickr.com/640/480/abstract?38402"
     ],
-    "tags": [
-      "shy",
-      "animated"
-    ]
+    "tags": ["shy", "animated"]
   },
   {
     "id": "db0d6d63-370b-497d-af6a-acd76cce88f9",
@@ -678,14 +600,7 @@
       "https://loremflickr.com/640/480/abstract?10444",
       "https://loremflickr.com/640/480/abstract?66261"
     ],
-    "tags": [
-      "yellowish",
-      "blank",
-      "these",
-      "small",
-      "gruesome",
-      "optimistic"
-    ]
+    "tags": ["yellowish", "blank", "these", "small", "gruesome", "optimistic"]
   },
   {
     "id": "f83aedd0-f783-4811-8f19-b3b807abd6ab",
@@ -694,14 +609,8 @@
     "author": "Zola Torphy",
     "publishedAt": "2022-02-16T06:26:18.246Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?66639"
-    ],
-    "tags": [
-      "necessary",
-      "striking",
-      "pleasing"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?66639"],
+    "tags": ["necessary", "striking", "pleasing"]
   },
   {
     "id": "2c1152a4-4dbf-4135-948f-f6b882bdd941",
@@ -710,14 +619,8 @@
     "author": "Amelie Heaney",
     "publishedAt": "2022-03-18T01:37:14.947Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?12984"
-    ],
-    "tags": [
-      "essential",
-      "respectful",
-      "ethical"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?12984"],
+    "tags": ["essential", "respectful", "ethical"]
   },
   {
     "id": "ea581e3f-3eee-420c-b8a6-288b8521235d",
@@ -726,17 +629,8 @@
     "author": "Kyleigh Marquardt",
     "publishedAt": "2022-02-27T04:15:36.425Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?12391"
-    ],
-    "tags": [
-      "immaculate",
-      "wrathful",
-      "dark",
-      "stunning",
-      "blank",
-      "noisy"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?12391"],
+    "tags": ["immaculate", "wrathful", "dark", "stunning", "blank", "noisy"]
   },
   {
     "id": "8127d129-0e96-4efb-9360-acf35fce27f6",
@@ -752,12 +646,7 @@
       "https://loremflickr.com/640/480/abstract?48905",
       "https://loremflickr.com/640/480/abstract?31986"
     ],
-    "tags": [
-      "improbable",
-      "small",
-      "optimistic",
-      "fabulous"
-    ]
+    "tags": ["improbable", "small", "optimistic", "fabulous"]
   },
   {
     "id": "ac21d82b-f537-43bf-beae-b0b1b54bb162",
@@ -820,12 +709,7 @@
       "https://loremflickr.com/640/480/abstract?79668",
       "https://loremflickr.com/640/480/abstract?28842"
     ],
-    "tags": [
-      "pungent",
-      "flippant",
-      "remorseful",
-      "shocked"
-    ]
+    "tags": ["pungent", "flippant", "remorseful", "shocked"]
   },
   {
     "id": "5c1578f2-ea60-43b4-95ae-7e49e82f30bd",
@@ -834,9 +718,7 @@
     "author": "Graciela Lakin",
     "publishedAt": "2022-04-22T23:36:43.961Z",
     "isPopular": true,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?5916"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?5916"],
     "tags": [
       "animated",
       "cylindrical",
@@ -861,9 +743,7 @@
       "https://loremflickr.com/640/480/abstract?85023",
       "https://loremflickr.com/640/480/abstract?37252"
     ],
-    "tags": [
-      "measly"
-    ]
+    "tags": ["measly"]
   },
   {
     "id": "931ed76e-25c3-4333-af98-9a6b5fbce8ae",
@@ -872,16 +752,8 @@
     "author": "Rollin Connelly",
     "publishedAt": "2021-09-20T04:56:35.927Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?8883"
-    ],
-    "tags": [
-      "bumpy",
-      "sinful",
-      "candid",
-      "runny",
-      "small"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?8883"],
+    "tags": ["bumpy", "sinful", "candid", "runny", "small"]
   },
   {
     "id": "929f0a79-80c8-40fd-8cd0-261b3bc9f4af",
@@ -936,9 +808,7 @@
     "author": "Mittie Herzog",
     "publishedAt": "2022-05-17T19:11:17.845Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?86648"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?86648"],
     "tags": [
       "recent",
       "passionate",
@@ -964,13 +834,7 @@
       "https://loremflickr.com/640/480/abstract?8487",
       "https://loremflickr.com/640/480/abstract?72200"
     ],
-    "tags": [
-      "gruesome",
-      "small",
-      "guilty",
-      "real",
-      "nutty"
-    ]
+    "tags": ["gruesome", "small", "guilty", "real", "nutty"]
   },
   {
     "id": "795bc9ad-761a-4753-ad0e-56bd942cf13e",
@@ -1001,9 +865,7 @@
     "author": "Annabel Renner",
     "publishedAt": "2022-04-08T08:43:38.670Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?51115"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?51115"],
     "tags": [
       "blank",
       "wrathful",
@@ -1154,10 +1016,7 @@
       "https://loremflickr.com/640/480/abstract?42255",
       "https://loremflickr.com/640/480/abstract?80943"
     ],
-    "tags": [
-      "noisy",
-      "remorseful"
-    ]
+    "tags": ["noisy", "remorseful"]
   },
   {
     "id": "896f8530-9897-4c15-925e-ea7b3cd5aa47",
@@ -1215,9 +1074,7 @@
     "author": "Raul Franecki",
     "publishedAt": "2021-09-29T01:33:38.861Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?134"
-    ],
+    "images": ["https://loremflickr.com/640/480/abstract?134"],
     "tags": [
       "medium",
       "remorseful",
@@ -1238,11 +1095,7 @@
       "https://loremflickr.com/640/480/abstract?9968",
       "https://loremflickr.com/640/480/abstract?19770"
     ],
-    "tags": [
-      "suspicious",
-      "gruesome",
-      "gullible"
-    ]
+    "tags": ["suspicious", "gruesome", "gullible"]
   },
   {
     "id": "b70a919f-5e9a-4f16-94df-69fd06ce20d1",
@@ -1251,15 +1104,8 @@
     "author": "Jonathan Von",
     "publishedAt": "2022-01-03T07:27:05.411Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?60776"
-    ],
-    "tags": [
-      "some",
-      "adventurous",
-      "hurtful",
-      "sniveling"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?60776"],
+    "tags": ["some", "adventurous", "hurtful", "sniveling"]
   },
   {
     "id": "4f70796a-7cb6-4ffc-879e-b7b61376eca2",
@@ -1276,10 +1122,7 @@
       "https://loremflickr.com/640/480/abstract?81219",
       "https://loremflickr.com/640/480/abstract?97192"
     ],
-    "tags": [
-      "ruddy",
-      "experienced"
-    ]
+    "tags": ["ruddy", "experienced"]
   },
   {
     "id": "fe240f09-9c94-402b-bd37-196a4cefc1a2",
@@ -1348,11 +1191,7 @@
       "https://loremflickr.com/640/480/abstract?92741",
       "https://loremflickr.com/640/480/abstract?2621"
     ],
-    "tags": [
-      "salty",
-      "adventurous",
-      "firm"
-    ]
+    "tags": ["salty", "adventurous", "firm"]
   },
   {
     "id": "8b0635ad-f399-42e6-999d-610895be88ce",
@@ -1388,12 +1227,7 @@
       "https://loremflickr.com/640/480/abstract?96985",
       "https://loremflickr.com/640/480/abstract?20234"
     ],
-    "tags": [
-      "illegal",
-      "some",
-      "stunning",
-      "these"
-    ]
+    "tags": ["illegal", "some", "stunning", "these"]
   },
   {
     "id": "35166b66-2c2b-4b9a-812f-5dd1fe0293ef",
@@ -1432,13 +1266,7 @@
       "https://loremflickr.com/640/480/abstract?98189",
       "https://loremflickr.com/640/480/abstract?39812"
     ],
-    "tags": [
-      "left",
-      "essential",
-      "bumpy",
-      "aware",
-      "wrathful"
-    ]
+    "tags": ["left", "essential", "bumpy", "aware", "wrathful"]
   },
   {
     "id": "0edda95c-494c-4680-a823-05834b2fa433",
@@ -1452,11 +1280,7 @@
       "https://loremflickr.com/640/480/abstract?83592",
       "https://loremflickr.com/640/480/abstract?52687"
     ],
-    "tags": [
-      "striking",
-      "optimistic",
-      "unwelcome"
-    ]
+    "tags": ["striking", "optimistic", "unwelcome"]
   },
   {
     "id": "11828129-cb72-4256-b162-5546427630a8",
@@ -1472,10 +1296,7 @@
       "https://loremflickr.com/640/480/abstract?61509",
       "https://loremflickr.com/640/480/abstract?60472"
     ],
-    "tags": [
-      "pink",
-      "some"
-    ]
+    "tags": ["pink", "some"]
   },
   {
     "id": "f6037ee3-a6cb-4b17-8a2f-a424a1ba9a25",
@@ -1484,15 +1305,8 @@
     "author": "Brycen O'Conner",
     "publishedAt": "2022-01-20T22:48:36.938Z",
     "isPopular": true,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?23857"
-    ],
-    "tags": [
-      "striking",
-      "worn",
-      "majestic",
-      "marvelous"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?23857"],
+    "tags": ["striking", "worn", "majestic", "marvelous"]
   },
   {
     "id": "b2c397af-71b7-44bf-9cfd-882edfdb8516",
@@ -1555,12 +1369,7 @@
       "https://loremflickr.com/640/480/abstract?64433",
       "https://loremflickr.com/640/480/abstract?90467"
     ],
-    "tags": [
-      "guilty",
-      "stupendous",
-      "radiant",
-      "ruddy"
-    ]
+    "tags": ["guilty", "stupendous", "radiant", "ruddy"]
   },
   {
     "id": "831eaa7a-f480-490c-b7ca-151ab75f0ae1",
@@ -1624,12 +1433,8 @@
     "author": "Kaleb Walker",
     "publishedAt": "2022-01-06T04:15:37.397Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?32833"
-    ],
-    "tags": [
-      "spotless"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?32833"],
+    "tags": ["spotless"]
   },
   {
     "id": "1a1079fa-62ec-4323-b582-0dce95190d4e",
@@ -1667,10 +1472,7 @@
       "https://loremflickr.com/640/480/abstract?64248",
       "https://loremflickr.com/640/480/abstract?90481"
     ],
-    "tags": [
-      "insubstantial",
-      "bland"
-    ]
+    "tags": ["insubstantial", "bland"]
   },
   {
     "id": "72f6ce20-e712-4fac-960b-43dd2518c072",
@@ -1685,11 +1487,7 @@
       "https://loremflickr.com/640/480/abstract?70915",
       "https://loremflickr.com/640/480/abstract?3705"
     ],
-    "tags": [
-      "prudent",
-      "medium",
-      "unwieldy"
-    ]
+    "tags": ["prudent", "medium", "unwieldy"]
   },
   {
     "id": "9b3abef6-2c4f-491c-af39-e2d3e9fd63a7",
@@ -1732,9 +1530,7 @@
       "https://loremflickr.com/640/480/abstract?39222",
       "https://loremflickr.com/640/480/abstract?34553"
     ],
-    "tags": [
-      "inexperienced"
-    ]
+    "tags": ["inexperienced"]
   },
   {
     "id": "33568abf-5c86-4721-a6da-52e882acf09c",
@@ -1748,11 +1544,7 @@
       "https://loremflickr.com/640/480/abstract?63095",
       "https://loremflickr.com/640/480/abstract?71839"
     ],
-    "tags": [
-      "hurtful",
-      "real",
-      "neighboring"
-    ]
+    "tags": ["hurtful", "real", "neighboring"]
   },
   {
     "id": "3ce7be85-19c9-45b1-bc2d-4c99022818c2",
@@ -1766,13 +1558,7 @@
       "https://loremflickr.com/640/480/abstract?21995",
       "https://loremflickr.com/640/480/abstract?312"
     ],
-    "tags": [
-      "alarming",
-      "animated",
-      "striking",
-      "flippant",
-      "cylindrical"
-    ]
+    "tags": ["alarming", "animated", "striking", "flippant", "cylindrical"]
   },
   {
     "id": "3be9e73a-2ccf-4e33-b0a4-78d7c6fd5f22",
@@ -1785,9 +1571,7 @@
       "https://loremflickr.com/640/480/abstract?14948",
       "https://loremflickr.com/640/480/abstract?91455"
     ],
-    "tags": [
-      "strict"
-    ]
+    "tags": ["strict"]
   },
   {
     "id": "21f6a990-18eb-46b2-9b64-e5125036ffd1",
@@ -1802,11 +1586,7 @@
       "https://loremflickr.com/640/480/abstract?25003",
       "https://loremflickr.com/640/480/abstract?80997"
     ],
-    "tags": [
-      "striking",
-      "experienced",
-      "optimistic"
-    ]
+    "tags": ["striking", "experienced", "optimistic"]
   },
   {
     "id": "2a6822b9-8c57-496a-9571-1ab636eec81d",
@@ -1815,14 +1595,8 @@
     "author": "Lina Gulgowski",
     "publishedAt": "2022-04-08T23:24:05.982Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?76920"
-    ],
-    "tags": [
-      "sinful",
-      "gigantic",
-      "wrathful"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?76920"],
+    "tags": ["sinful", "gigantic", "wrathful"]
   },
   {
     "id": "92f9ced8-d93d-4995-99a8-f00c039f61cb",
@@ -1837,14 +1611,7 @@
       "https://loremflickr.com/640/480/abstract?76907",
       "https://loremflickr.com/640/480/abstract?96562"
     ],
-    "tags": [
-      "lined",
-      "big-hearted",
-      "joint",
-      "some",
-      "necessary",
-      "guilty"
-    ]
+    "tags": ["lined", "big-hearted", "joint", "some", "necessary", "guilty"]
   },
   {
     "id": "283b3b4b-0899-4ccb-beb0-c839c2c99970",
@@ -1858,11 +1625,7 @@
       "https://loremflickr.com/640/480/abstract?37608",
       "https://loremflickr.com/640/480/abstract?95776"
     ],
-    "tags": [
-      "yearly",
-      "insubstantial",
-      "remorseful"
-    ]
+    "tags": ["yearly", "insubstantial", "remorseful"]
   },
   {
     "id": "5ea462f2-9fe6-43a2-9680-222d951f9904",
@@ -1871,16 +1634,8 @@
     "author": "Kayla Mosciski",
     "publishedAt": "2022-06-17T07:34:32.769Z",
     "isPopular": false,
-    "images": [
-      "https://loremflickr.com/640/480/abstract?17492"
-    ],
-    "tags": [
-      "spotless",
-      "sudden",
-      "inexperienced",
-      "blank",
-      "inexperienced"
-    ]
+    "images": ["https://loremflickr.com/640/480/abstract?17492"],
+    "tags": ["spotless", "sudden", "inexperienced", "blank", "inexperienced"]
   },
   {
     "id": "0fd2af32-9a37-4d55-b5d0-1b51d69a5729",
@@ -1896,9 +1651,7 @@
       "https://loremflickr.com/640/480/abstract?21829",
       "https://loremflickr.com/640/480/abstract?6468"
     ],
-    "tags": [
-      "real"
-    ]
+    "tags": ["real"]
   },
   {
     "id": "6503fdd5-b7c1-4075-979d-43d863c7aa2f",
@@ -1912,11 +1665,7 @@
       "https://loremflickr.com/640/480/abstract?30263",
       "https://loremflickr.com/640/480/abstract?46322"
     ],
-    "tags": [
-      "gullible",
-      "alarming",
-      "shocked"
-    ]
+    "tags": ["gullible", "alarming", "shocked"]
   },
   {
     "id": "261e1a2e-9f0d-46ad-b477-de039a703096",
@@ -1931,14 +1680,7 @@
       "https://loremflickr.com/640/480/abstract?40585",
       "https://loremflickr.com/640/480/abstract?27062"
     ],
-    "tags": [
-      "guilty",
-      "milky",
-      "noisy",
-      "left",
-      "expensive",
-      "expensive"
-    ]
+    "tags": ["guilty", "milky", "noisy", "left", "expensive", "expensive"]
   },
   {
     "id": "5a5c1040-caf9-40e3-94bd-a36628be0ad1",
@@ -1999,9 +1741,7 @@
       "https://loremflickr.com/640/480/abstract?86389",
       "https://loremflickr.com/640/480/abstract?59884"
     ],
-    "tags": [
-      "cultivated"
-    ]
+    "tags": ["cultivated"]
   },
   {
     "id": "bff7cd13-4b9e-45c4-8789-d3c3564e3b36",
@@ -2017,10 +1757,7 @@
       "https://loremflickr.com/640/480/abstract?32623",
       "https://loremflickr.com/640/480/abstract?79604"
     ],
-    "tags": [
-      "prudent",
-      "improbable"
-    ]
+    "tags": ["prudent", "improbable"]
   },
   {
     "id": "7608b69d-f40e-41ef-a4f0-2c22508243d5",
@@ -2061,9 +1798,7 @@
       "https://loremflickr.com/640/480/abstract?193",
       "https://loremflickr.com/640/480/abstract?4499"
     ],
-    "tags": [
-      "small"
-    ]
+    "tags": ["small"]
   },
   {
     "id": "295efbf9-eb3e-46a7-8a40-f6f8ab583481",
@@ -2080,11 +1815,7 @@
       "https://loremflickr.com/640/480/abstract?89647",
       "https://loremflickr.com/640/480/abstract?3350"
     ],
-    "tags": [
-      "cheery",
-      "shy",
-      "ethical"
-    ]
+    "tags": ["cheery", "shy", "ethical"]
   },
   {
     "id": "16590d99-50fe-4116-b0ac-4729e1765ea1",
@@ -2098,9 +1829,6 @@
       "https://loremflickr.com/640/480/abstract?72574",
       "https://loremflickr.com/640/480/abstract?49997"
     ],
-    "tags": [
-      "bumpy",
-      "left"
-    ]
+    "tags": ["bumpy", "left"]
   }
 ]
