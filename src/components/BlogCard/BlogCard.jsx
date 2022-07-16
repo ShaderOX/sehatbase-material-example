@@ -11,6 +11,7 @@ import {
   Typography,
 } from "@mui/material";
 import { green } from "@mui/material/colors";
+import React from "react";
 
 const BlogCard = ({ blog }) => {
   return (
@@ -63,11 +64,21 @@ const BlogCard = ({ blog }) => {
           </CardContent>
 
           <CardContent>
-            <Box sx={{ display: "flex", justifyContent: "space-evenly" }}>
+            <Box
+              sx={{
+                display: "flex",
+                flexWrap: "wrap",
+                justifyContent: "space-evenly",
+              }}
+            >
               {blog.tags.length > 0 &&
-                blog.tags.slice(0, 5).map((tag, idx) => {
+                blog.tags.map((tag, idx) => {
                   return (
-                    <Link key={`${tag}-${idx}`} to={`/blogs?tag=${tag}`}>
+                    <Link
+                      key={`${tag}-${idx}`}
+                      to={`/blogs?tag=${tag}`}
+                      marginX={1}
+                    >
                       <Typography
                         variant="caption"
                         sx={{ textDecoration: "underline" }}

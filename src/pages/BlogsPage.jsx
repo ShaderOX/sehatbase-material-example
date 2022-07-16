@@ -1,18 +1,16 @@
 import { Link, Pagination, PaginationItem } from "@mui/material";
 import { Box } from "@mui/system";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import BlogGrid from "../components/BlogGrid";
 import Heading from "../components/Heading";
-import blogs from "../data/blogs.json";
 import { BaseLayout } from "../layouts";
-
-const BLOGS_PER_PAGE = 10;
+import { BLOGS_PER_PAGE, filterBlogs } from "../utils/blogs";
 
 const BlogsPage = () => {
-  const [searchParams] = useSearchParams({ page: 1 });
+  const [searchParams] = useSearchParams({ page: 1, tag: "" });
 
-  const blogTag = searchParams.get("tag");
+  const blogTag = searchParams.get("tag").toLowerCase();
   const page = parseInt(searchParams.get("page"));
 
   const [allBlogs, setAllBlogs] = useState([]);
@@ -22,10 +20,9 @@ const BlogsPage = () => {
     const timeout = setTimeout(
       () =>
         setAllBlogs(() => {
-          const filteredBlogs = blogTag
-            ? blogs.filter(blog => blog.tags.includes(blogTag.toLowerCase()))
-            : blogs;
-
+          const filteredBlogs = filterBlogs(
+            blogTag && (blog => blog.tags.includes(blogTag))
+          );
           setTotalPages(Math.ceil(filteredBlogs.length / BLOGS_PER_PAGE));
           const ret =
             filteredBlogs.length === 0
@@ -35,7 +32,6 @@ const BlogsPage = () => {
                   page * BLOGS_PER_PAGE
                 );
 
-          console.log({ ret });
           return ret;
         }),
       2000

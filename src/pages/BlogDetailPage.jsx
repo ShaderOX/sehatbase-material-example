@@ -1,4 +1,4 @@
-import { Divider, Grid, Link, Typography, useMediaQuery } from "@mui/material";
+import { Divider, Grid, Link, Typography } from "@mui/material";
 import { green } from "@mui/material/colors";
 import { Box } from "@mui/system";
 import React, { useEffect, useState } from "react";
@@ -6,8 +6,8 @@ import Carousel from "react-material-ui-carousel";
 import { useParams } from "react-router-dom";
 import BlogCard from "../components/BlogCard/BlogCard";
 import Heading from "../components/Heading";
-import blogs from "../data/blogs.json";
 import { BaseLayout } from "../layouts";
+import { filterBlogs, getSimilarBlogs } from "../utils/blogs";
 
 const BlogDetailPage = () => {
   const { blogId } = useParams();
@@ -16,8 +16,7 @@ const BlogDetailPage = () => {
   useEffect(() => {
     const timeout = setTimeout(
       setCurrentBlog(() => {
-        const ret = blogs.filter(blog => blog.id === blogId);
-
+        const ret = filterBlogs(blog => blog.id === blogId);
         return ret[0];
       }),
       2000
@@ -126,8 +125,9 @@ const BlogDetailPage = () => {
             </Typography>
 
             <Carousel navButtonsAlwaysVisible={true} interval={2000}>
-              {blogs.slice(0, 5).map(blog => (
+              {getSimilarBlogs(currentBlog.tags).map(blog => (
                 <Box
+                  key={String(blog)}
                   sx={{
                     display: "flex",
                     alignItems: "center",

@@ -1,8 +1,8 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import BlogGrid from "../components/BlogGrid";
 import Heading from "../components/Heading";
-import blogs from "../data/blogs.json";
 import { BaseLayout } from "../layouts";
+import { filterBlogs } from "../utils/blogs";
 
 const HomePage = () => {
   const [popularBlogs, setPopularBlogs] = useState([]);
@@ -10,8 +10,7 @@ const HomePage = () => {
     const timeout = setTimeout(
       () =>
         setPopularBlogs(() => {
-          const filteredBlogs = blogs.filter(blog => blog.isPopular);
-          return filteredBlogs.length === 0 ? null : filteredBlogs;
+          return filterBlogs(blog => blog.isPopular);
         }),
       2000
     );
