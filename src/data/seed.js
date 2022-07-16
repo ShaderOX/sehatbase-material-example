@@ -11,7 +11,7 @@ const WORDS_IN_DESCRIPTION = 1000;
 const AVERAGE_IMAGES_PER_BLOG = 6;
 const AVERAGE_TAGS_PER_BLOG = 10;
 
-const tags = Array.from({ length: BLOGS_TO_CREATE }).map(() => faker.word.adjective());
+const tags = Array.from({ length: BLOGS_TO_CREATE }).map(() => faker.word.adjective().toLowerCase());
 const blogs = Array.from({ length: BLOGS_TO_CREATE }).map(() => createBlog(tags));
 
 function createBlog(tags) {
@@ -23,7 +23,7 @@ function createBlog(tags) {
     publishedAt: faker.date.past(),
     isPopular: Math.random() >= 0.9,
     images: Array.from({ length: Math.random() * AVERAGE_IMAGES_PER_BLOG + 1 }).map(() => faker.image.abstract(640, 480, true)),
-    tags: Array.from({ length: Math.random() * AVERAGE_TAGS_PER_BLOG }).map(() => tags[parseInt(Math.random() * tags.length)])
+    tags: Array.from({ length: Math.random() * AVERAGE_TAGS_PER_BLOG + 1 }).map(() => tags[parseInt(Math.random() * tags.length)])
   });
 }
 
