@@ -5,6 +5,7 @@ import { theme } from "./config";
 import ContactUsPage from "./pages/ContactUsPage";
 import HomePage from "./pages/HomePage";
 import BlogsPage from "./pages/BlogsPage";
+import BlogDetailPage from "./pages/BlogDetailPage";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/blogs" element={<BlogsPage />} />
+          <Route path="/blogs/:blogId" element={<BlogDetailPage />} />
           <Route path="/contact-us" element={<ContactUsPage />} />
         </Routes>
       </Router>
